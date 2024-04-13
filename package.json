@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://viniciusbrunheroto.github.io/Trilha-Ignite-Projeto-01-React-TS",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
