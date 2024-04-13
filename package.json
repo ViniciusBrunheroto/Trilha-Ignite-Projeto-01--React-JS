@@ -2,8 +2,8 @@
   "name": "01-fundamentos-reactjs",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://viniciusbrunheroto.github.io/Trilha-Ignite-Projeto-01-React-JS",
   "type": "module",
-  "homepage":"https://viniciusbrunheroto.github.io/Trilha-Ignite-Projeto-01-React-JS",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
